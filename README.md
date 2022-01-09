@@ -1,18 +1,13 @@
-### Hi there 👋
+## Hi there 👋 
+I'm using ReactNative. Sometimes I make web using React and Vue.
 
-- 🌱 I’m currently learning React, Vue
-- 📫 How to reach me: 99seryoung@naver.com
+I enjoy taking a picture and singing. 📷🎙
+Live hard in the moment and have fun overall 🤸
 
-<!--
-**SeryeongK/SeryeongK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills 🦾
+### Platforms & Languages
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=#F7DF1E"/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
