@@ -16,6 +16,5 @@ Live hard in the moment and have fun overall 🤸
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
 ### Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>Cancel changes
-
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 ![SeryeongK's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeryeongK&show_icons=true&theme=default)
