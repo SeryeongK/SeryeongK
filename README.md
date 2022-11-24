@@ -1,5 +1,4 @@
-## Hi there 👋 
-I'm using ReactNative. Sometimes I make web using React and Vue.
+## Hi there 👋 I'm Seryeong! 
 
 I enjoy taking a picture and singing. 📷🎙
 Live hard in the moment and have fun overall 🤸
