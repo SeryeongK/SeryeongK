@@ -3,20 +3,16 @@
 I enjoy taking a picture and singing. 📷🎙
 Live hard in the moment and have fun overall 🤸
 
+---
 
-## Skills 🦾
-### Platforms & Languages
-🖥 Web
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+### Skills 🦾
+|🖥 Web|<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-1976d2?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=Redux&logoColor=white"/>|
+|--|------|
+|📱 App|<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/>|
+|Tools|<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>|
 
-📱 App
-<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
-### Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-
+### Projects 🤸‍
 |프로젝트명|프로젝트 소개|역할|스택|주소|
 |:-------:|:---------:|:--:|:--:|:--:|
 |마리모: 말이 뭐 어렵니?|아동 언어 발달 학습 서비스|프론트엔드(동화, 홈)|React Native|https://github.com/sookmile/Marimo_front_dev|
