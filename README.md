@@ -1,7 +1,4 @@
-## Hi there 👋 I'm Seryeong! 
-
-I enjoy taking a picture and singing. 📷🎙
-Live hard in the moment and have fun overall 🤸
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=4,4,4&height=250&section=header&text=Seryeong's%20github%20❄️&fontSize=70&&fontColor=ffffff)
 
 ---
 
