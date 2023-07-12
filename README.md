@@ -1,9 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=4,4,4&height=250&section=header&text=Seryeong's%20github%20❄️&fontSize=70&&fontColor=ffffff)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeryeongK&count_bg=%233D6BC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+
+| [![Seyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeryeongK)](https://github.com/SeryeongK/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeryeongK)](https://github.com/SeryeongK/github-readme-stats) |
+|---|---|
+
 ---
 
 ### Skills 🦾
-<p align="center>
+<p align="center">
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReactRouter-CA4245?style=flat-square&logo=Reactrouter&logoColor=white"/>
