@@ -19,14 +19,3 @@
 <img src="https://img.shields.io/badge/Reocoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
-
-
-### Projects 🤸‍
-|프로젝트명|프로젝트 소개|스택|주소|
-|:-------:|:---------:|:--:|:--:|
-|마리모: 말이 뭐 어렵니?|아동 언어 발달 학습 서비스|React Native|https://github.com/sookmile/Marimo_front_dev|
-|플켓(Plket)|공연 정보 제공 / 평점 서비스|React Native|https://github.com/PlayTicket/plket_front|
-|서픽(SearchPic)|사진을 인식하여 장소를 찾는 서비스|React Naitve|https://github.com/dimage21/SearchPic_front|
-|텔레이나(TELE_INA)|옛날 예능을 이용자가 자유롭게 큐레이션하고 공유할 수 있는 서비스|React|https://github.com/SeryeongK/TELE_INA_front|
-|PintOS|Kaist 운영체제 실습|C|https://github.com/SeryeongK/pintos-kaist-1
-|insightLINK|갤러리 속 인사이트를 연결하는 아카이브|Nextjs, TypeScript|https://github.com/SeryeongK/insightLINK|
