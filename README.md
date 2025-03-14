@@ -6,7 +6,7 @@
 <p>  
 - Linkedin: https://www.linkedin.com/in/seryeong-kim
 <p>
-- Velog: https://velog.io/@seryeongk
+- Blog: https://serye9.tistory.com/?page=5
 </p>
 </div>
 
